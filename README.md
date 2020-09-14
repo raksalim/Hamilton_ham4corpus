@@ -3,7 +3,7 @@ Create a word cloud png/jpg from a text file based on frequency of words
 
 Result:
 
-![alt text](https://github.com/raksalim/Hamilton_ham4corpus/Generated_Image.png?raw=true)
+![alt text](https://github.com/raksalim/Hamilton_ham4corpus/blob/master/Generated_Image.png?raw=true)
 
 
 
