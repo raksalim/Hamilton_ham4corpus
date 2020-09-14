@@ -16,4 +16,4 @@ Credit:
 Using ham4corpus's modified clone repo, I will create a wordcloud from "All Lyrics_Speaker" and "All Lyrics_No_Speaker" 
 text files. All Lyrical rights credited to Lin Manuel Miranda.
 
-Thank you Ham4Ham!
+Thank you ham4corpus!
