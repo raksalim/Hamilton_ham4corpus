@@ -1,3 +1,7 @@
+# Word_Cloud
+Create a word cloud png/jpg from a text file based on frequency of words
+
+This Project:
 Create a Word Cloud based on the frequency of words of Hamilton.
 
 Using Ham4Ham's modified clone repo, I will use Ham4Ham's "All Lyrics_Speaker" and "All Lyrics_No_Speaker" 
